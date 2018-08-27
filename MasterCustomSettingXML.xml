@@ -297,11 +297,11 @@
                 <CreatedDate>2018-08-23T21:42:14.000+0000</CreatedDate>
                 <LastModifiedBy.Id>005K0000004vRhDIAU</LastModifiedBy.Id>
                 <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-23T21:42:14.000+0000</LastModifiedDate>
+                <LastModifiedDate>2018-08-27T14:23:29.000+0000</LastModifiedDate>
                 <Apttus_Config2__CustomFieldNames2__c>Apttus_Config2__AttributeValueId__r.Cart_ARR__c,Apttus_Config2__PriceListId__r.Name,Apttus_Config2__AttributeValueId__r.Cart_ARR_to_USD__c,Apttus_Config2__AttributeValueId__r.KeySafe_ARR_to_USD__c,Incremental_ARR_NRR_to_USD__c</Apttus_Config2__CustomFieldNames2__c>
                 <Apttus_Config2__CustomFieldNames3__c>Apttus_Config2__ConfigurationId__r.Apttus_QPConfig__Proposald__r.Is_Test_Quote__c,Apttus_Config2__AttributeValueId__r.Platform_ARR_to_USD__c,Apttus_Config2__AttributeValueId__r.Core_ARR_to_USD__c,Apttus_Config2__ConfigurationId__r.Is_Renewed_repriced__c</Apttus_Config2__CustomFieldNames3__c>
                 <Apttus_Config2__CustomFieldNames4__c>Apttus_Config2__AttributeValueId__r.Total_Net_Price_to_USD__c,User_Profile__c,Apttus_Config2__ConfigurationId__r.Sales_Divison_Optty_Owner__c</Apttus_Config2__CustomFieldNames4__c>
-                <Apttus_Config2__CustomFieldNames5__c>Apttus_Config2__AttributeValueId__r.Primary_Zone__c,Total_ARR_NRR_to_USD__c,Apttus_Config2__MinUsageQuantity__c,CPQ_Parent_Bundle_Platform_ARR__c,CPQ_Parent_Bundle_Generic_ARR__c</Apttus_Config2__CustomFieldNames5__c>
+                <Apttus_Config2__CustomFieldNames5__c>Apttus_Config2__AttributeValueId__r.Primary_Zone__c,Total_ARR_NRR_to_USD__c,Apttus_Config2__MinUsageQuantity__c,CPQ_Parent_Bundle_Platform_ARR__c,CPQ_Parent_Bundle_Generic_ARR__c,Apttus_Config2__ProductId__r.Product_sub_Family__c</Apttus_Config2__CustomFieldNames5__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigLineItemCustomFields__c">
                 <Name>ABC</Name>
