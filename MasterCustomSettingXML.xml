@@ -349,12 +349,13 @@
                 <CreatedBy.Id>005K0000004vRhDIAU</CreatedBy.Id>
                 <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
                 <CreatedDate>2018-08-23T21:42:14.000+0000</CreatedDate>
-                <LastModifiedBy.Id>005K0000004vRhDIAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-23T21:42:14.000+0000</LastModifiedDate>
+                <LastModifiedBy.Id>0050e000006Ng4xAAC</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Shivani Rathod</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T04:14:46.000+0000</LastModifiedDate>
                 <Apttus_Config2__CustomFieldNames2__c>Apttus_Config2__AttributeValueId__r.Platform_Governance_Quantity__c,Apttus_Config2__AttributeValueId__r.Box_Platform_Zones_Multi_Quantity__c,Apttus_Config2__AttributeValueId__r.Platform_GxP_Validation_Quantity__c</Apttus_Config2__CustomFieldNames2__c>
                 <Apttus_Config2__CustomFieldNames3__c>Apttus_Config2__AttributeValueId__r.Platform_KeySafe_Key_Vault_Quantity__c,Apttus_Config2__AttributeValueId__r.Platform_KeySafe_with_AWS_CloudHSM_Qty__c,Apttus_Config2__AttributeValueId__r.Platform_KeySafe_with_AWS_KMS_Quantity__c</Apttus_Config2__CustomFieldNames3__c>
                 <Apttus_Config2__CustomFieldNames4__c>Apttus_Config2__AttributeValueId__r.Platform_Platinum_Services_Quantity__c,Apttus_Config2__AttributeValueId__r.Platform_Premier_Services_Quantity__c,Apttus_Config2__AttributeValueId__r.Platform_Zones_Quantity__c</Apttus_Config2__CustomFieldNames4__c>
+                <Apttus_Config2__CustomFieldNames5__c>Apttus_Config2__AttributeValueId__r.Total_Platform_ARR__c</Apttus_Config2__CustomFieldNames5__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigSelectConfigProductsSettings__c">
                 <Name>Primary Settings</Name>
