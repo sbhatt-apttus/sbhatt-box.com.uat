@@ -242,12 +242,13 @@
                 <CreatedBy.Id>005K0000004vRhDIAU</CreatedBy.Id>
                 <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
                 <CreatedDate>2018-08-23T21:42:14.000+0000</CreatedDate>
-                <LastModifiedBy.Id>005K0000004vRhDIAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-23T21:42:14.000+0000</LastModifiedDate>
+                <LastModifiedBy.Id>005K0000004v6hMIAQ</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Deepak Jagtap</LastModifiedBy.Name>
+                <LastModifiedDate>2018-09-06T00:32:07.000+0000</LastModifiedDate>
                 <Apttus_Config2__CustomFieldNames2__c>Apttus_Config2__AttributeValueId__r.Governance_Decider__c,Apttus_Config2__AttributeValueId__r.Relay_Decider__c,Apttus_Config2__AttributeValueId__r.Relay_Elite_Decider__c</Apttus_Config2__CustomFieldNames2__c>
                 <Apttus_Config2__CustomFieldNames3__c>Apttus_Config2__AttributeValueId__r.Platform_Premier_Services_Decider__c</Apttus_Config2__CustomFieldNames3__c>
                 <Apttus_Config2__CustomFieldNames4__c>Net_Price_to_USD__c</Apttus_Config2__CustomFieldNames4__c>
+                <Apttus_Config2__CustomFieldNames__c>Estimated_Gross_Unit_Price__c,Apttus_Config2__AssetLineItemId__r.Total_Gross_Price__c,Apttus_Config2__AssetLineItemId__r.Apttus_Config2__SellingTerm__c,Apttus_Config2__AssetLineItemId__r.Apttus_Config2__Quantity__c</Apttus_Config2__CustomFieldNames__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigLineItemCustomFields__c">
                 <Name>Auto Add Consulting products</Name>
