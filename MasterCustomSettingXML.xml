@@ -257,12 +257,12 @@
                 <CreatedDate>2018-08-23T21:42:14.000+0000</CreatedDate>
                 <LastModifiedBy.Id>005K0000004vRhDIAU</LastModifiedBy.Id>
                 <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-23T21:42:14.000+0000</LastModifiedDate>
+                <LastModifiedDate>2018-09-06T02:34:44.000+0000</LastModifiedDate>
                 <Apttus_Config2__CustomFieldNames2__c>Apttus_Config2__ConfigurationId__r.Quote_Type__c,Apttus_Config2__ProductId__r.productCode</Apttus_Config2__CustomFieldNames2__c>
                 <Apttus_Config2__CustomFieldNames3__c>Apttus_Config2__AttributeValueId__r.Platinum_Services_Decider__c,Apttus_Config2__AttributeValueId__r.Custom_Consulting_Decider__c,Apttus_Config2__AttributeValueId__r.Incremental_Core_ARR_to_USD__c</Apttus_Config2__CustomFieldNames3__c>
                 <Apttus_Config2__CustomFieldNames4__c>CPQ_Parent_Bundle_Core_ARR__c,Apttus_Config2__AttributeValueId__r.Core_ARR__c,CPQ_Parent_Bundle_Line_Status__c,CPQ_Service_Base_Price__c,CPQ_Service_Final_Base_Price__c</Apttus_Config2__CustomFieldNames4__c>
                 <Apttus_Config2__CustomFieldNames5__c>Apttus_Config2__AttributeValueId__r.List_Price__c,Apttus_Config2__PriceType__c,Apttus_Config2__PriceListItemId__r.Apttus_Config2__ListPrice__c,Tiered_Price__c</Apttus_Config2__CustomFieldNames5__c>
-                <Apttus_Config2__CustomFieldNames__c>Check_Sales_Division_Decider__c,Apttus_Config2__AttributeValueId__r.Enterprise_Plus_No_of_Seats_User_Input__c</Apttus_Config2__CustomFieldNames__c>
+                <Apttus_Config2__CustomFieldNames__c>Check_Sales_Division_Decider__c,Apttus_Config2__AttributeValueId__r.Enterprise_Plus_No_of_Seats_User_Input__c,Apttus_Config2__AssetLineItemId__r.Apttus_Config2__ListPrice__c</Apttus_Config2__CustomFieldNames__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigLineItemCustomFields__c">
                 <Name>PCB</Name>
